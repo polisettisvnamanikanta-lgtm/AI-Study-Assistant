@@ -44,3 +44,13 @@ Manikanta
 
 B.Tech Electronics and Communication Engineering
 IIIT Kottayam
+
+
+
+## Screenshots
+
+### Application Homepage
+
+
+### AI Response
+![AI Response](screenshots/ai-response.png)
